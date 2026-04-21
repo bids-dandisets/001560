@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Widefield calcium imaging experiments from awake, head-fixed mouse neocortex.  Groups include control, MeCP2 knock-down, and MeCP2 overexpression animals.",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Higley, Michael"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
